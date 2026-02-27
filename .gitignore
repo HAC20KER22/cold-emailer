@@ -1,0 +1,6 @@
+.env
+email_list.txt
+*venv*
+__pycache__/
+*.pyc
+resume.pdf
