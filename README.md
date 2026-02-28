@@ -24,5 +24,6 @@ pip install -r requirements.txt
 SENDER_EMAIL=sender_email@gmail.com
 PASSWORD=<16 character password>
 ```
+> Note: The password here is an app password.
 
-> Note: The password here is an app password. 6. Create your email list and name it email_list.txt and keep it in the same folder as the code_emailer.py
+6. Create your email list and name it email_list.txt and keep it in the same folder as the code_emailer.py
